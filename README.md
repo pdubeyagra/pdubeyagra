@@ -5,9 +5,9 @@ I'm **Pradyumn Dubey**, a Front End Developer with a passion for building web ap
 ### About Me
 I'm a results-oriented developer with a strong focus on creating user-friendly experiences. I have a solid foundation in JavaScript, React, Next.js. I'm always eager to learn new technologies and improve my skills. 
 
-### Contact
-* pdubey.agra@gmail.com
-* www.linkedin.com/in/pradyumn-dubey-39265b2a8
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] )](https://linkedin.com/in/pradyumn-dubey-39265b2a8)
+
 
 ### Open to Collaboration
 I'm always open to collaborating on interesting projects!
