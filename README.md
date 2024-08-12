@@ -3,7 +3,7 @@ I'm Pradyumn Dubey, a Front End Developer with a passion for building web applic
 
 🌱 **I’m currently learning:**  <br>Node.js and GraphQL.<br>
 
-👯 ### Open to Collaboration 
+### 👯 Open to Collaboration 
 I'm always open to collaborating on interesting projects!
 
 
