@@ -6,9 +6,9 @@ I'm Pradyumn Dubey, a Front End Developer with a passion for building web applic
 ### 👯 Open to Collaboration 
 I'm always open to collaborating on interesting projects!
 
-[
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/pradyumn-dubey-39265b2a8) ](**url**)
+
+[## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/pradyumn-dubey-39265b2a8) ](url)
 
 
 # 💻 Tech Stack:
