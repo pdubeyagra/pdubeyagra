@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pradyumn Dubey</h1>
-<h3 align="center">🚀 Full Stack Developer | React • Node.js • TypeScript • MERN • React Native</h3>
+<h3 align="center">Frontend Engineer | MERN Stack Developer | React Native Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/pradyumn-dubey">
-    <img src="https://komarev.com/ghpvc/?username=pradyumn-dubey&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/pdubeyagra">
+    <img src="https://komarev.com/ghpvc/?username=pdubeyagra&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -11,15 +11,14 @@
 
 ## 💫 About Me
 
-💡 Full Stack Developer with **4+ years of experience** building scalable web & mobile applications across **fintech, healthtech & real estate**
+💡 Frontend Engineer with **4+ years of experience** building responsive web and mobile applications across **fintech, healthtech & real estate**
 
-🏗️ Currently working at **Maxemo Capital** — building a Loan Management System used by **500+ loan officers**
+🏗️ Currently at **Maxemo Capital** as a MERN Stack Developer, building an enterprise Loan Management System (LMS)
 
-📈 Achievements:
-- 🔥 Reduced form errors by **40%**
-- ⚡ Reduced API bugs by **30%**
-- 🚀 Improved delivery speed by **25%**
-- 🧠 Optimized DB queries → **40% faster performance**
+📈 Impact on recent work:
+- 🔄 Reduced development time by **25%** through streamlined cross-team API integration and delivery
+- ⚙️ Improved dashboard load performance through DOM optimization and lazy loading (Concentrix)
+- ♿ Delivered WCAG-conformant, cross-browser-compatible UI components
 
 🌱 Currently exploring:
 - **System Design**
@@ -32,17 +31,18 @@
 
 ### 🚀 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 🎨 UI & Styling
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
 ![Mantine](https://img.shields.io/badge/Mantine-339af0?style=for-the-badge)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
@@ -56,100 +56,92 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### ☁️ DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Maxemo Capital — Full Stack Developer (2024–Present)
+### 🏢 Maxemo Capital Services Pvt Ltd — MERN Stack Developer (Nov 2024 – Present)
 
-- Built **Loan Management System** (React + Node + PostgreSQL)
-- Designed **20+ REST APIs** with JWT auth & validation
-- Migrated to **TanStack Query + RTK** → reduced API calls by 30%
-- Designed scalable DB schemas → improved performance by 40%
-- Led **cross-team architecture decisions**
+- Engineered responsive web and mobile interfaces for an enterprise **Loan Management System (LMS)** using React.js and React Native, integrated with Node.js/Express REST APIs
+- Led development of the **Provisional Sanction Letter (PSL)** form system — reusable multi-tab components in TypeScript and Tailwind CSS for multi-step, backend-validated workflows
+- Optimized RESTful API consumption across the MERN stack, improving reliability of request/response handling and validation
+- Implemented state management with Redux Toolkit and Redux Persist for reliable client-server data sync
+- Collaborated cross-functionally with backend, database, and design teams — reduced development time by **25%**
 
 ---
 
-### 🏢 Concentrix — Frontend Developer (2021–2024)
+### 🏢 Concentrix Daksh Services Pvt Ltd — Front End Developer / UI Developer (Dec 2021 – Nov 2024)
 
-- Migrated legacy **jQuery → React** → 35% performance boost
-- Built reusable **component library (Storybook)** used across 5+ apps
-- Improved accessibility to **WCAG 2.1 standards**
-- Mentored junior devs & led code reviews
+- Developed and maintained internal web applications and client support portals using HTML5, CSS3, JavaScript, and React.js
+- Converted Figma wireframes into responsive, pixel-accurate frontends in close collaboration with UI/UX designers
+- Built a modular, reusable component library for customer support tools, improving UI consistency across multiple products
+- Improved internal dashboard load performance by optimizing DOM structure and implementing lazy-loaded components
+- Integrated REST APIs (Axios) for real-time ticket updates, call logs, and agent activity tracking
+- Built accessibility-compliant, WCAG-conformant components with cross-browser compatibility
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 Loan Management System
-> Full-scale fintech platform (internal)
-- Role-based access, PSL workflows, dashboards
-- React + Node + PostgreSQL + TypeScript
-
----
+### 🏦 Loan Management System & Loan Origination System
+> Enterprise fintech platform — Maxemo Capital
+- Role-based workflows, PSL form system, multi-step validation
+- React.js, React Native, Node.js/Express, TypeScript, Tailwind CSS
+- 🔗 https://www.maxemocapital.com/ · https://portal.maxemocapital.com/
 
 ### 🏡 Real Estate Platform
 🔗 https://www.meteryard.com/
 
-- Next.js SSR for SEO optimization
-- Advanced filtering & search
-
----
-
-### 🏥 HealthTech Platforms
+### 🏥 Appointment Platform
 🔗 https://www.docindia.org/
 
-- Appointment booking system
-- Stripe integration & onboarding flows
+### ✈️ Medical Tourism Platform
+🔗 https://www.medicaltours.care/
+
+### ☀️ Renewable Energy Platform
+🔗 https://sassolar.in/
 
 ---
 
-### 🤖 AI Chatbot
+## 🧪 Personal Projects
+
+### 🤖 AI Chat Bot
 🔗 https://chat-bot-seven-lime.vercel.app/
-
-- Streaming AI chatbot with context memory
-- Markdown support + secure API handling
-
----
 
 ### 💬 Realtime Chat App
 🔗 https://ichat-cup.pages.dev/
 
-- WebSocket-based chat system
-- JWT auth + multi-room support
-
----
-
-### 🛒 E-commerce App
+### 🛒 E-commerce Frontend
 🔗 https://instashop.pages.dev/
 
-- Cart, filters, order management
-- Redux Toolkit + React Query
+### 📱 Social Media UI
+🔗 https://telegrapha.pages.dev/
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradyumn-dubey&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradyumn-dubey&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pdubeyagra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdubeyagra&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 Email: pdubey.agra@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/pradyumn-dubey  
-💻 GitHub: https://github.com/pradyumn-dubey  
+📧 Email: pdubey.agra@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/pradyumn-dubey-39265b2a8/
+💻 GitHub: https://github.com/pdubeyagra
 
 ---
 
 ## ⚡ Fun Fact
 
-I love building **high-performance scalable systems** and turning complex problems into clean UI/UX 🚀
+I love building high-performance, accessible interfaces and turning complex workflows into clean UI/UX 🚀
